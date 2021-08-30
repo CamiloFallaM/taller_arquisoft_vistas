@@ -9,7 +9,7 @@ Obtener la lista de todos los Measurements
 Obtener un Measurement dado su id
 ![image](https://user-images.githubusercontent.com/69485845/131277639-275f52c3-567b-40e6-aaa8-96836ce1231b.png)
 
-# Update (update/<int:pk>/<int:new_value>)
+# Update (update/<<int:pk>/<int:new_value>)
 Actualizar el valor (value) de un Measurement dado su id y el nuevo valor
 ![image](https://user-images.githubusercontent.com/69485845/131277686-973665a9-f621-4f7c-9c36-d46eb9fca062.png)
 
